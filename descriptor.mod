@@ -10,5 +10,8 @@ tags={
 	"Fixes"
 	"Balance"
 }
+dependencies = {
+	"Kaiserreich"
+}
 name="Nights of National Revolution: A Kaiserreich Submod"
 supported_version="1.16.*"
